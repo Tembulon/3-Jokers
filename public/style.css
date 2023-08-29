@@ -1,0 +1,22 @@
+.footer-container{
+    display: flex;
+    align-self:center;
+    align-items: center;
+    justify-content:center;
+    bottom: 0;
+    position: fixed;
+    
+}
+
+.container{
+    display: flex;
+    justify-content:center;
+    align-items: center;
+    position: relative;
+
+
+}
+
+body{
+    background-color: gray;
+}
